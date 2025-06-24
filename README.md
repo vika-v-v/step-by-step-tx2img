@@ -25,8 +25,8 @@ To run the script, do the following:
 - Add hugging face token:
   <code>
     huggingface-cli login
-    # paste the token you just copied
   </code>
+  and paste the token you just copied
 - Run the script with
   <code>
     python3 generate-tx2img-flux.py
