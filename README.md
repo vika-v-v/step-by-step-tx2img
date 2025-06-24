@@ -26,7 +26,7 @@ To run the script, do the following:
 - Get access to the FLUX.1-dev model:
   - Go to [https://huggingface.co/black-forest-labs/FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
   - Request access
-  - Create a token under your profile top right -> Access Tokens -> Create new token -> select some token name like "fux", scroll to the botoom to "Repositories permissions" and type in "black-forest-labs/FLUX.1-dev", click "create token" and copy it
+  - Create a token under: your profile top right → Access Tokens → Create new token → select some token name like "fux", scroll to the botoom to "Repositories permissions" and type in "black-forest-labs/FLUX.1-dev", click "create token" and copy it, it might take a few minutes before you can continue to the next step
 - Add hugging face token:
   <pre>
   huggingface-cli login
