@@ -10,6 +10,7 @@ This project includes:
 - the example gif: [example_people_coworking_animation.gif](example_people_coworking_animation.gif)
 - folders with example images: [example_people_at_the_office](example_people_at_the_office) and [example_people_coworking](example_people_coworking)
 
+## Getting started
 To run the script, do the following:
 - Make sure you have python installed
 - Create and activate a virtual environment:
